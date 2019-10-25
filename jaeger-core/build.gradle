@@ -37,5 +37,7 @@ task jaegerVersion {
     }
 }
 
+<h1>Hacktoberfest is coming!!
+
 compileJava.dependsOn jaegerVersion
 
